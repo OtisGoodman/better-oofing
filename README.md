@@ -2,6 +2,8 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20server!-7289da.svg?longCache=true&style=for-the-badge)](https://discord.gg/9UZuyC8)
 [![Curseforge](https://img.shields.io/badge/Curseforge-Project%20page!-A54C2D.svg?longCache=true&style=for-the-badge)](https://minecraft.curseforge.com/projects/better-oofing)
+
+
 Ever felt like the vanilla death sound was a bit plain?
 
  
