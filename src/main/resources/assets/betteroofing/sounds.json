@@ -1,0 +1,12 @@
+{
+  "oof": {
+    "category": "misc",
+    "subtitle": "subtitle.oof",
+    "sounds": [
+      {
+        "name": "betteroofing:oof",
+        "stream": true
+      }
+    ]
+  }
+}

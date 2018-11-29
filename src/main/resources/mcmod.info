@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betteroofing",
+  "name": "Better Oofing",
+  "description": "A client-side mod about on one word OOF!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Otis_Goodman"],
+  "credits": "melon_girl8787 for saying oof way to many times and inspiring me.",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
