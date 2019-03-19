@@ -1,11 +1,4 @@
-/**
- * Created by Otis_Goodman on 11/1/2018.
- * This is licensed under the GNU General Public License v3.0
- * https://github.com/Quack-Craft-Moding-Team/Quack-Craft/blob/Src/LICENSE
- * If you would like to see the src go to
- * https://github.com/Quack-Craft-Moding-Team/Quack-Craft/tree/Src
- * Now run along now and eat your quackers!
- */
+
 package com.otis.betteroofing.Client;
 
 import com.otis.betteroofing.Util.ModInfo;
