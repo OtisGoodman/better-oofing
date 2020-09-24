@@ -2,7 +2,7 @@
 
 [![Curseforge](https://img.shields.io/badge/Curseforge-Project%20page!-A54C2D.svg?longCache=true&style=for-the-badge)](https://minecraft.curseforge.com/projects/better-oofing)
 
-[![Maintained](https://img.shields.io/badge/Maintained%3A-False-red?style=flat-square&logo=github)]
+![Maintained](https://img.shields.io/badge/Maintained%3A-False-red?style=flat-square&logo=github)
 
 Ever felt like the vanilla death sound was a bit plain?
 
